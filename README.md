@@ -11,7 +11,7 @@ A spring (5) at the bottom of the interior compartment (3) is situated on top of
 
 ![Mechanical design of dispensing mechanism in action](mechanical_Fig2Editted.png)
 
-As seen in the image above, as the lever is pushed up, a pill is easily popped out. The electrical design for pill-E will detect this pushing motion via a button, to determine the exact moment a pill has been dispensed. The arrow on the diagram is pointing to a gap (1) in the back cover of the design (unseen due to side perspective), that allows the lever to make contact with the pill.
+As seen in the image above, as the lever is pushed up, a pill is easily popped out. The electrical design for pill-E will detect this pushing motion via a button, to determine the exact moment a pill has been dispensed. The arrow on the diagram is pointing to a gap (1) in the back cover of the design (unseen due to side perspective), that allows the lever to make contact with the pill. As pills are dispensed from the top, the spring will continue to stretch, thus exerting an upward force that pushes new pills to the surface.  
 
 ---
 ### Wiring Diagram
