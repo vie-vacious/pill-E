@@ -1,5 +1,5 @@
 # pill-E
-A smart pill dispenser that tracks medical dosage intake and reminds you up keep up with your meds!
+A smart pill dispenser that tracks medical dosage intake and reminds you to keep up with your meds!
 
 ---
 ### Mechanical Design
